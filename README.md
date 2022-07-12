@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning React and refreshing my HTML,CSS and JS. 
 - 💞️ I’m looking to collaborate on interesting open source projects.
-- 📫 Reach me via my mail : aimaswink@gmail.com
+- 📫 Reach me via my mail : aswinkuruvathofficial@gmail.com
 
 <!---
 Aswinkuruvath/Aswinkuruvath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
